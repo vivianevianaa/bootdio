@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+	padding: 0;
+    border: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+.font {
+    font-family: 'Ubuntu', sans-serif;
+}
+.navbar {
+    background-color: darksalmon;
+}
+
+.aboutus{
+    background-color: darkseagreen;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.partners {
+    background-color: darkslateblue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.solutions {
+    background-color: darkcyan;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-footer {
+    background-color: darkslategrey;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h3 {
+    padding-bottom: 40px;
+}
+
+h4 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+h5 {
+    padding-top: 10px;
+}
+
+i {
+    color: black;
+}
